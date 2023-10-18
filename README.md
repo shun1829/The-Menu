@@ -1,5 +1,9 @@
 # The-Menu
 
+Goal - その日に使いたい食材を複数入力（例：　鮭、きのこ、ほうれん草、鶏肉、長ネギ、人参、じゃがいも、大根）するとそれを含めた一日3食（主食、主菜、副菜）の献立を表示するアプリを作る。
+
+課程　- クラシルなどの料理アプリに使いたい食材を複数入れると複数全てを使った一品を出力する。
+
 ![Screenshot 2023-10-17 at 0 08 46](https://github.com/shun1829/The-Menu/assets/74482117/7df3a559-a2d3-46ed-9709-24cdfa7bf153)
 
 クラシルは、検索バーに食材を入れ、その全てが含まれた料理一品を結果として表示する
@@ -30,9 +34,4 @@ answer - 以下の献立案をご提供いたします。朝、昼、晩の3食�
 ⁴: [レシピ](https://www.kurashiru.com/recipes/0b9a2c7a-2f1e-4b5d-bc7d-9f7e3e0a8b1e)
 ⁵: [レシピ](https://www.kurashiru.com/recipes/6f1b0b9a-3f8c-4a6c-a7e9-2c8d0e3b1a4f)
 
-Source: Conversation with Bing, 10/17/2023
-(1) 「鶏もも肉 しいたけ」の人気レシピ 101件｜レシピ大百科 .... https://park.ajinomoto.co.jp/recipe/search/?search_word=%E9%B6%8F%E3%82%82%E3%82%82%E8%82%89+%E3%81%97%E3%81%84%E3%81%9F%E3%81%91.
-(2) 定番メニューがグッと増える！鶏肉×ほうれん草の人気レシピ20 .... https://macaro-ni.jp/48067.
-(3) 「鶏肉 ほうれん草」の人気レシピ 34件｜レシピ大百科（レシピ .... https://park.ajinomoto.co.jp/recipe/search/?search_word=%E9%B6%8F%E8%82%89+%E3%81%BB%E3%81%86%E3%82%8C%E3%82%93%E8%8D%89.
-(4) 美味しくて栄養満点♪ 鶏もも肉とほうれん草のクリーム煮の .... https://delishkitchen.tv/recipes/156569712883401196.
-(5) 【人気1位】豚肉とほうれん草の殿堂入りレシピ《つくれぽ1000 .... https://inabatoshiya.com/recipe-butaniku-hourensou-tsukurepo.
+
